@@ -1,4 +1,4 @@
-# 📊 DSA Algorithm Sorting Visualizer
+# 📊 DSA Sorting Visualization
 
 An interactive and educational web application that visualizes common sorting algorithms used in Data Structures and Algorithms (DSA). It helps learners understand the inner workings of sorting techniques through step-by-step animations.
 
